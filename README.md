@@ -1,6 +1,6 @@
 ### Hi, I'm Shahzaib 👋
 
-WordPress engineer focused on **large-scale site architecture, technical SEO, and performance**. I build custom plugins, headless WordPress setups, and geo/taxonomy-driven systems for content-heavy portfolios.
+WordPress engineer focused on **large-scale site architecture and performance**. I build custom plugins, headless WordPress setups, and geo/taxonomy-driven systems for content-heavy portfolios.
 
 **What I work on**
 - Custom single-file WordPress plugins — REST APIs, admin tools, ACF/taxonomy-driven shortcodes
