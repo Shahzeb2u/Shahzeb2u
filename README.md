@@ -16,4 +16,4 @@ WordPress engineer focused on **large-scale site architecture and performance**.
 - Geo-targeting shortcode systems with server-side rendering for crawlability
 - A headless WordPress REST API powering a Next.js frontend
 
-📫 Reach me: shahzeb2u@gmail.com
+📫 Reach me: shahzaib.builds@gmail.com
